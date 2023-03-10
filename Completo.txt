@@ -1,0 +1,10 @@
+Ford|Ford Motor Company|Deportivo Coupé|Auto Deportivo dos puertas para uso en ciudad y en carretera|4|Focus SRT|Automovil deportivo 200 Hp|2010-06-20 14:00:20.0
+Ford|Ford Motor Company|Deportivo Coupé|Auto Deportivo dos puertas para uso en ciudad y en carretera|4|Fusion SRT|Automovil Ejecutivo 220 Hp|2010-06-20 15:00:20.0
+Ford|Ford Motor Company|Camioneta SUV|Camioneta para Ciudad y en carretera|6|Escape SRT|Camioneta SUV deportiva de 320 Hp|2010-06-20 18:00:20.0
+Mitsubishi|Mitsubishi Motors|Deportivo Coupé|Auto Deportivo dos puertas para uso en ciudad y en carretera|4|Lancer EVO|Deportivo Purasangre 400hp para ciudad y carretera|2010-06-20 18:00:20.0
+Mitsubishi|Mitsubishi Motors|Deportivo Coupé|Auto Deportivo dos puertas para uso en ciudad y en carretera|4|Galant EVO|Deportivo Ejecutivo 300hp para ciudad y carretera|2010-06-20 13:02:20.0
+Mitsubishi|Mitsubishi Motors|Camioneta SUV|Camioneta para Ciudad y en carretera|6|Endeavor LS|Camioneta para ciudad SemiEquipada de 220hp para ciudad y carretera|2010-06-20 12:50:20.0
+Chrysler|Daimler Chrysler Company|Compacto|Auto compacto exclusivo para la ciudad|3|Verna|Compacto de 100hp para ciudad|2010-06-20 20:10:20.0
+Chrysler|Daimler Chrysler Company|Compacto|Auto compacto exclusivo para la ciudad|3|Atitude|Compacto de 120hp para ciudad|2010-06-20 22:10:34.0
+Chrysler|Daimler Chrysler Company|Pasajeros|Auto de pasajeros para uso en ciudad y en carretera|5|300C|Auto ejecutivo de 200hp para ciudad|2010-06-20 09:10:20.0
+Chrysler|Daimler Chrysler Company|Pasajeros|Auto de pasajeros para uso en ciudad y en carretera|5|300M|Auto ejecutivo de 220hp para ciudad|2010-06-20 05:10:40.0
